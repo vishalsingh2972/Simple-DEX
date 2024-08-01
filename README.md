@@ -1,4 +1,4 @@
-# Simple DEX s
+# Simple DEX
 ## Decentralized Exchange (DEX) Prototype using Node.js + Express
 
 DEXs emerged as a response to the centralized control offered by platforms like Binance, WazirX, and Coinbase. Unlike these centralized exchanges that hold user assets, DEXs operate on a peer-to-peer basis. This means traders retain complete ownership of their cryptocurrencies, which are stored in personal wallets (often referred to as cold storage). DEXs facilitate direct asset swaps between users without intermediaries, ensuring that we always have full control over our funds.
