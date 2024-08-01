@@ -1,4 +1,5 @@
-# Decentralized Exchange (DEX) Prototype in Node.js + Express
+# Simple DEX
+## Decentralized Exchange (DEX) Prototype using Node.js + Express
 
 This repository contains a basic prototype of a decentralized exchange (DEX) implemented using Node.js and Express. The DEX allows users to buy and sell assets (in this case, Ethereum and USDC) in a decentralized manner. It includes functionalities for adding liquidity, buying assets, and selling assets.
 
