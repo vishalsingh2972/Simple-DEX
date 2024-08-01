@@ -1,6 +1,8 @@
 # Simple DEX
 ## Decentralized Exchange (DEX) Prototype using Node.js + Express
 
+DEXs emerged as a response to the centralized control offered by platforms like Binance, WazirX, and Coinbase. Unlike these centralized exchanges that hold user assets, DEXs operate on a peer-to-peer basis. This means traders retain complete ownership of their cryptocurrencies, which are stored in personal wallets (often referred to as cold storage). DEXs facilitate direct asset swaps between users without intermediaries, ensuring that we always have full control over our funds.
+
 This repository contains a basic prototype of a decentralized exchange (DEX) implemented using Node.js and Express. The DEX allows users to buy and sell assets (in this case, Ethereum and USDC) in a decentralized manner. It includes functionalities for adding liquidity, buying assets, and selling assets.
 
 ## Features
@@ -14,4 +16,6 @@ This repository contains a basic prototype of a decentralized exchange (DEX) imp
 - Node.js
 - Express
 - TypeScript
+
+Note: This is a simplified prototype for educational and experimental purposes. It does not represent a fully functional or secure DEX for production use.
 
