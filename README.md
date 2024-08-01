@@ -17,5 +17,9 @@ This repository contains a basic prototype of a decentralized exchange (DEX) imp
 - Express
 - TypeScript
 
-Note: This is a simplified prototype for educational and experimental purposes. It does not represent a fully functional or secure DEX for production use.
+```diff
+- Note: This is a simplified prototype for educational and experimental purposes. It does not represent a fully functional or secure DEX for production use.
+```
+
+
 
