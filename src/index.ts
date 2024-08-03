@@ -10,7 +10,6 @@ let ETH_BALANCE = 200;
 let USDC_BALANCE = 700000; // the price of USDC/USDT mainly doesn't change
 
 app.post('/add-liquidity', (req, res) => {
-  // parse the amounts as numbers
   const ETH_amount_Added = req.body.ethAmount;
   const USDC_amount_Added = req.body.usdcAmount;
 
