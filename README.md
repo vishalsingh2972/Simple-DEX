@@ -10,6 +10,7 @@ This repository contains a basic prototype of a decentralized exchange (DEX) imp
 - **Add Liquidity:** Users can add liquidity to the exchange by providing assets (e.g., Ethereum and USDC).
 - **Buy Assets:** Users can buy assets (e.g., Ethereum) from the exchange using USDC.
 - **Sell Assets:** Users can sell assets (e.g., Ethereum) to the exchange in exchange for USDC.
+- **Quote:** Users can obtain a price estimate for a desired asset (e.g., Ethereum) by specifying the asset and quantity they wish to purchase using another asset (e.g., USDC).
 
 ## Technologies Used
 
